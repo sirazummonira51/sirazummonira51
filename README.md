@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Sirazum Monira </h1>
 <h3 align="center"> Learner || Developer || Web Designer </h3>
 
-<p align="center"> <a href="https://www.linkedin.com/in/sirazummonira51/" target="blank"><img src="https://img.shields.io/twitter/follow/Suvasini_suva?logo=twitter&style=for-the-badge" alt="Suvasini_suva" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/sirazummonira51/" target="blank"><img src="https://img.shields.io/twitter/follow/Suvasini_suva?logo=twitter&style=for-the-badge" alt="SirazumMonira_" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
